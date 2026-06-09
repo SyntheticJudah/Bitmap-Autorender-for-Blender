@@ -6,7 +6,7 @@ A Blender add-on that renders the active scene in real time into a tiny **128×6
 
 # Interface
 
-<img width="1982" height="576" alt="image" src="https://github.com/user-attachments/assets/6136da9d-4101-4dd3-bb9f-8bd7a44161d6" />
+<img width="1987" height="580" alt="image" src="https://github.com/user-attachments/assets/2e74618c-2fbd-4dd3-9159-e3ce0e3c10f4" />
 
 ## !!! Disclaimer !!!
 
