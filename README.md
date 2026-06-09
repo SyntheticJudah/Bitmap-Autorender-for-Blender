@@ -10,7 +10,7 @@ A Blender add-on that renders the active scene in real time into a tiny **128×6
 
 ## !!! Disclaimer !!!
 
-I wrote and used this script while creating screensavers for our new OLED screens for Elektron Machinedrum / Monomachine / Cctatrack MKI as part of my work at [**MachineStore**](https://discord.gg/yxg75JCsh3). Keep in mind that this is not a polished software product, but rather a rough-around-the-edges tool designed to solve a specific problem. You may still encounter some crashes, but they are rare enough that you can work comfortably. Just remember to save your work frequently.
+I wrote and used this script while creating screensavers for our new OLED screens for Elektron Machinedrum / Monomachine / Octatrack MKI as part of my work at [**MachineStore**](https://discord.gg/yxg75JCsh3). Keep in mind that this is not a polished software product, but rather a rough-around-the-edges tool designed to solve a specific problem. You may still encounter some crashes, but they are rare enough that you can work comfortably. Just remember to save your work frequently.
 
 ## Requirements
 
