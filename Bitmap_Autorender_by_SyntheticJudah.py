@@ -356,11 +356,11 @@ def ui_update_timer():
 
 # UI Panel
 class BMP_PT_panel(bpy.types.Panel):
-    bl_label = "BMP Autorended by SJ"
+    bl_label = "BMP Autorender by SJ"
     bl_idname = "BMP_PT_panel"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
-    bl_category = "BMP Autorended by SJ"
+    bl_category = "BMP Autorender by SJ"
     def draw(self, context):
         layout = self.layout
         scene = context.scene
